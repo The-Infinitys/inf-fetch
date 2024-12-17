@@ -1,0 +1,3 @@
+/workspaces/the-infinitys/github/inf-fetch/out/build/data/CMakeFiles/rebuild_cache.dir
+/workspaces/the-infinitys/github/inf-fetch/out/build/data/CMakeFiles/edit_cache.dir
+/workspaces/the-infinitys/github/inf-fetch/out/build/data/CMakeFiles/inf-fetch.dir

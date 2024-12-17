@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/inf-fetch.dir/main.cpp.o  -o inf-fetch 
